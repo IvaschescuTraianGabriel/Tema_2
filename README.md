@@ -1,4 +1,4 @@
-Tema realizata in cadrul materie "Sisteme de operare"
+Tema realizata in cadrul materiei "Sisteme de operare"
 
 
 
